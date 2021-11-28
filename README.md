@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Danishshaikh6123
 - 👀 I’m interested in Devops tools like Docker and AWS cloud.
 - 🌱 I’m currently learning Linux, Docker.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me danishshaikh6123@gmail.com
 
 <!---
