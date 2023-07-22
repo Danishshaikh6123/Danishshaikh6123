@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Danish Shaikh
 - 👀 I’m interested in Devops tools like Docker and AWS cloud.
-- 🌱 I’m currently learning Linux, Docker.
+- 🌱 I’m currently learning Docker and Kubernetes.
 - 📫 How to reach me danishshaikh6123@gmail.com
 
 <!---
